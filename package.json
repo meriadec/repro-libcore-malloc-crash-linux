@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@ledgerhq/ledger-core": "^2.2.1-rc",
+    "electron": "2.0.17"
+  }
+}
