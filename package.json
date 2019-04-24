@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@ledgerhq/ledger-core": "^2.2.1-rc",
-    "electron": "2.0.17"
+    "electron": "2.0.17",
+    "electron-rebuild": "^1.8.4"
   }
 }
